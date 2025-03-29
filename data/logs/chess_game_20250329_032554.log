@@ -1,0 +1,13 @@
+2025-03-29 03:25:54,240 - INFO - Khởi động trò chơi mới
+2025-03-29 03:25:54,240 - INFO - Chế độ chơi: human_vs_ai
+2025-03-29 03:25:54,240 - INFO - Epoch: 1
+2025-03-29 03:25:55,340 - INFO - Current turn: white
+2025-03-29 03:25:55,340 - INFO - Selected square: None
+2025-03-29 03:25:55,340 - INFO - Board state at d2: P
+2025-03-29 03:25:55,340 - INFO - Piece: P, Is white piece: True, Is white turn: True
+2025-03-29 03:25:55,340 - INFO - Selected piece: P at d2
+2025-03-29 03:25:56,018 - INFO - Current turn: white
+2025-03-29 03:25:56,018 - INFO - Selected square: (3, 6)
+2025-03-29 03:25:56,018 - INFO - Board state at d4: None
+2025-03-29 03:25:56,018 - INFO - Attempting move: d2d4
+2025-03-29 03:25:56,024 - INFO - Move successful: d2d4
